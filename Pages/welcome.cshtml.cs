@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AsparageTours.Pages
 {
-    public class Demo1Model : PageModel
+    public class WelcomeModel : PageModel
     {
         public void OnGet()
         {
