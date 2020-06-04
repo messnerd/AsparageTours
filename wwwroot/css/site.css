@@ -2,7 +2,6 @@
     width: 100%;
 }
 
-
 .checked {
     color: orange;
 }
@@ -70,11 +69,11 @@ a {
     border-color: #252152;
 }
 
-    .btn-primary:hover {
-        color: #fff;
-        background-color: #e9a8a6;
-        border-color: #e9a8a6;
-    }
+.btn-primary:hover {
+    color: #fff;
+    background-color: #e9a8a6;
+    border-color: #e9a8a6;
+}
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
@@ -120,6 +119,7 @@ html {
 
 body {
     /* Margin bottom by footer height */
+    background-color: #aaa;
     margin-bottom: 60px;
 }
 
